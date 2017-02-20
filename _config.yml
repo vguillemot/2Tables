@@ -2,7 +2,7 @@ theme: jekyll-theme-dinky
 position: fixed
 
 title: Canonical Correlation Analysis, an example in R
-description: We present an example of a Canonical Correlation analysis of a small example data-set. The data-set contains two blocks of variables describing various characteristics of severals wines (white, rosé or red). 
+description: [Description](01_description.md) [Description](01_description.md) 
 
 author :
   name : Vincent Guillemot
