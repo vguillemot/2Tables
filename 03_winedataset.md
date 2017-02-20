@@ -1,5 +1,5 @@
-To illustrate CCA we use the  data set 
-presented in Table \ref{tab:Wines4CCA}.
+We illustrate CCA on a wine tasting data set.
+
 These data describe thirty-six 
 red, rosé, or white wines
 produced in three different countries
@@ -16,3 +16,15 @@ on a 9-point rating scale of 8 aspects of taste:
 fruity, floral, vegetal, spicy, woody, sweet, astringent, acidic,     
 plus an overall evaluation of the hedonic aspect of the wine 
 (i.e., how much the taster liked the wine).
+
+
+As shown in the following Figure (for matrix R), the objective variables Alcohol and Tannin 
+are positively correlated with the perceived qualities of astringent and
+woody; by contrast, the perceived hedonic aspect of wine is negatively   
+correlated with Alcohol, Tannin 
+(and Price, so our taster liked inexpensive wines\dots) 
+and positively correlated with the Sugar content of the wines. 
+Unsurprisingly, the objective amount of Sugar is correlated with the 
+perceived quality sweet.
+
+![figures/R-1.pdf](Correlation matrix between X and Y)
