@@ -1,4 +1,9 @@
 theme: jekyll-theme-modernist
-sections:
-  intro: This is the introduction
-  conclusion: This is a conclusion
+highlighter: pygments
+
+title: Bla bla title
+description: Get rid of the boilerplate code in properties based configuration.
+
+author :
+  name : Vincent Guillemot
+  github : vguillemot
