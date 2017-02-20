@@ -40,12 +40,5 @@ This [website](https://vguillemot.github.io/2Tables/) presents briefly a Canonic
 
 [Retour](#id0)
 
-<h2>Introduction</h2>
-{{ page.sections['intro'] | textilize }}
-
-<h2>Body</h2>
-{{ content }}
-
-<h2>Conclusion</h2>
-{{ page.sections['conclusion'] | textilize }}
+[a relative link](other_file.md)
 
