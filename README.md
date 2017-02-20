@@ -41,4 +41,12 @@ This [website](https://vguillemot.github.io/2Tables/) presents briefly a Canonic
 [Retour](#id0)
 
 [a relative link](other_file.md)
+[Description](01_description.md)
+[Canonical Correlation Analysis: brief overview](02_CCAoverview.md)
+[The wine dataset](03_winedataset.md )
+[Latent variables](04_LVs.md)
+[Loadings](#id5)
+[Correlation circles](#id6)
+
+	
 
