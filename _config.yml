@@ -1,7 +1,7 @@
 theme: jekyll-theme-modernist
 
-title: Bla bla title
-description: Get rid of the boilerplate code in properties based configuration.
+title: Canonical Correlation Analysis: an example in R
+description: We present an example of a Canonical Correlation analysis of a small example data-set. The data-set contains two blocks of variables describing various characteristics of severals wines (white, rosé or red). 
 
 author :
   name : Vincent Guillemot
