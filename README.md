@@ -1,7 +1,3 @@
----
-title: "Canonical Correlation Analysis: an example in R"
----
-
 # <a name="id0"></a>Outline
 
 * [Description](#id1)
