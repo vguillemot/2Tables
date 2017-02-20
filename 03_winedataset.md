@@ -27,4 +27,4 @@ and positively correlated with the Sugar content of the wines.
 Unsurprisingly, the objective amount of Sugar is correlated with the 
 perceived quality sweet.
 
-![figures/R-1.pdf](Correlation matrix between X and Y)
+![figures/R-1.png](Correlation matrix between X and Y)
