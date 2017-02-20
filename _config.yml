@@ -1,1 +1,4 @@
 theme: jekyll-theme-modernist
+sections:
+  intro: This is the introduction
+  conclusion: This is a conclusion
