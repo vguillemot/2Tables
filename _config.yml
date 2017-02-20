@@ -2,7 +2,14 @@ theme: jekyll-theme-dinky
 position: fixed
 
 title: Canonical Correlation Analysis, an example in R
-description: <a href="https://vguillemot.github.io/2Tables/#id2">link text</a>
+description: |
+   <a href="https://vguillemot.github.io/2Tables/#id1">Description</a>
+   <a href="https://vguillemot.github.io/2Tables/#id2">CCA</a>
+   <a href="https://vguillemot.github.io/2Tables/#id3">Wine Data-set</a>
+   <a href="https://vguillemot.github.io/2Tables/#id4">Latent Variables</a>
+   <a href="https://vguillemot.github.io/2Tables/#id5">Loadings</a>
+   <a href="https://vguillemot.github.io/2Tables/#id6">Correlation Circles</a>
+  
 
 
 author :
