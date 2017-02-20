@@ -1,3 +1,7 @@
+---
+title: "Canonical Correlation Analysis: an example in R"
+---
+
 This [website](https://vguillemot.github.io/2Tables/) presents briefly a Canonical Correlation Analysis of the 
 
 # Canonical Correlation Analysis: brief overview
