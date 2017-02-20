@@ -2,7 +2,7 @@ theme: jekyll-theme-dinky
 position: fixed
 
 title: Canonical Correlation Analysis, an example in R
-description: 01_description.md
+description: https://vguillemot.github.io/2Tables/#id2
 
 author :
   name : Vincent Guillemot
