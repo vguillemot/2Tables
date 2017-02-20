@@ -1,5 +1,4 @@
 theme: jekyll-theme-modernist
-highlighter: pygments
 
 title: Bla bla title
 description: Get rid of the boilerplate code in properties based configuration.
