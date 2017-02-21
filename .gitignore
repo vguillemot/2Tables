@@ -33,4 +33,9 @@ vignettes/*.pdf
 *.knit.md
 
 # produced html
-*.html
+02_CCAoverview.html
+04_LVs.html
+05_loadings.html
+06_cc.html
+# Jekyll
+GemFile
