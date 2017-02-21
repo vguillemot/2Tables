@@ -1,16 +1,17 @@
 theme: jekyll-theme-dinky
 position: fixed
 
-title: Canonical Correlation Analysis, an example in R
+title: <a href="https://vguillemot.github.io/2Tables">Canonical Correlation Analysis, an example in R</a>
 description: |
-   <a href="https://vguillemot.github.io/2Tables/#id1">Description</a> <br>
-   <a href="https://vguillemot.github.io/2Tables/#id2">CCA</a> <br>
-   <a href="https://vguillemot.github.io/2Tables/#id3">Wine Data-set</a> <br>
-   <a href="https://vguillemot.github.io/2Tables/#id4">Latent Variables</a> <br>
-   <a href="https://vguillemot.github.io/2Tables/#id5">Loadings</a> <br>
-   <a href="https://vguillemot.github.io/2Tables/#id6">Correlation Circles</a> <br>
-  
+   <a href="https://vguillemot.github.io/2Tables/01_description.html">Description</a> <br>
+   <a href="https://vguillemot.github.io/2Tables/02_CCAoverview.html">CCA</a> <br>
+   <a href="https://vguillemot.github.io/2Tables/03_winedataset.html">Wine Data-set</a> <br>
+   <a href="https://vguillemot.github.io/2Tables/04_LVs.html">Latent Variables</a> <br>
+   <a href="https://vguillemot.github.io/2Tables/05_loadings.html">Loadings</a> <br>
+   <a href="https://vguillemot.github.io/2Tables/06_cc.html">Correlation Circles</a> <br>
+
 markdown: maruku
+
 
 author :
   name : Vincent Guillemot

@@ -24,7 +24,7 @@ that address
 slightly different types of problems 
 (e.g., different normalization conditions, different types data).
 
-If oyr two data matrices are \(X\) and \(Y\), CCA looks for loading \(p\) and \(q\) such that they solve the following maximization problem:
+If the two data matrices are called \(X\) and \(Y\), CCA looks for loading \(p\) and \(q\) such that they solve the following maximization problem:
 
 \[
 \max cor(p^\top X^\top Y q)
