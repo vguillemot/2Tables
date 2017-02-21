@@ -17,3 +17,6 @@ use_math: true
 author :
   name : Vincent Guillemot
   github : vguillemot
+
+gems:
+  - jekyll-titles-from-headings
