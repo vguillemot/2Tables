@@ -11,7 +11,7 @@ description: |
    <a href="https://vguillemot.github.io/2Tables/06_cc.html">Correlation Circles</a> <br>
 
 markdown: kramdown
-
+use_math: true
 
 author :
   name : Vincent Guillemot
