@@ -6,6 +6,11 @@
 
 # Canonical Correlation Analysis: an overview
 
+ * OK, so this \\( \sqrt x \\) does not work
+ * Nor this \( \sqrt x \) 
+ * nor this \(\sqrt x\) nor this \\(\sqrt x\\)
+ * But maybe $$\sqrt x$$ or $$ \sqrt x $$ will?
+
 Originally defined by Hotelling in 1936 (Hotelling, 1936),
 canonical correlation analysis (CCA)
 is a statistical method whose goal is to extract the
