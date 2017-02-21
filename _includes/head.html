@@ -3,12 +3,9 @@
     <head>
         <meta charset="utf-8">
         <title>{{ page.title }}</title>
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" >
         <link href="/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
-    {% if page.use_math %}
-      {% include mathjax_support %}
-    {% endif %}
-
+        <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
     </head>
     <body>
