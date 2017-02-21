@@ -10,7 +10,7 @@ description: |
    <a href="https://vguillemot.github.io/2Tables/05_loadings.html">Loadings</a> <br>
    <a href="https://vguillemot.github.io/2Tables/06_cc.html">Correlation Circles</a> <br>
 
-markdown: maruku
+markdown: kramdown
 
 
 author :

@@ -24,10 +24,13 @@ that address
 slightly different types of problems 
 (e.g., different normalization conditions, different types data).
 
-If the two data matrices are called \(X\) and \(Y\), CCA looks for loading \(p\) and \(q\) such that they solve the following maximization problem:
+If the two data matrices are called \\( X \\) and \(Y\), CCA looks for loading \(p\) and \(q\) such that they solve the following maximization problem:
 
 \[
 \max cor(p^\top X^\top Y q)
 \]
+
+Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
+\\[ \frac{1}{n^{2}} \\]
 
 
