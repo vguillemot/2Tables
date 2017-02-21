@@ -1,3 +1,7 @@
+---
+title: CCA
+---
+
 # Canonical Correlation Analysis: an overview
 
  * OK, so this \\( \sqrt x \\) does not work
