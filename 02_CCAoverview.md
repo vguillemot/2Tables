@@ -1,17 +1,11 @@
-# Canonical Correlation Analysis: an overview
-
 <head>
-...
     <script type="text/javascript"
             src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
-...
-bla bla ?
-
-\\[ \frac{1}{n^{2}} \\]
-
-
 </head>
+
+# Canonical Correlation Analysis: an overview
+
 Originally defined by Hotelling in 1936 (Hotelling, 1936),
 canonical correlation analysis (CCA)
 is a statistical method whose goal is to extract the
