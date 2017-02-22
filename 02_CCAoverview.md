@@ -33,14 +33,6 @@ slightly different types of problems
 
 If the two data matrices are called \\( \X \\) and \\( \Y \\), CCA looks for loading \\(\p\\) and \\(\q\\) such that they solve the following maximization problem:
 
-\\[
-  \max \cor(\p^\top \X^\top \Y \q)
-\\]
-
-$$\begin{equation}
-  \max \cor(\p^\top \X^\top \Y \q)
-\end{equation}$$
-
 \begin{equation}
   \max \cor(\p^\top \X^\top \Y \q)
   \label{cca}
