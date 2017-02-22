@@ -1,8 +1,13 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-dinky
 
 position: fixed
 markdown: kramdown
-math: mathjax
+
+math: mathjax # options: katex, , false
+fancybox: true
+
+cdn:
+  mathjax: '//cdn.mathjax.org'
 
 title: Canonical Correlation Analysis
 description: |
