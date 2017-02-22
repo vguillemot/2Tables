@@ -1,5 +1,11 @@
 # Canonical Correlation Analysis: an overview
 
+\(
+   \def\cor{\text{cor}}
+   \def\X{\bf X}
+   \def\Y{\bf Y}
+\)
+
 Originally defined by Hotelling in 1936 (Hotelling, 1936),
 canonical correlation analysis (CCA)
 is a statistical method whose goal is to extract the
@@ -24,10 +30,15 @@ that address
 slightly different types of problems 
 (e.g., different normalization conditions, different types data).
 
-If the two data matrices are called \\( X \\) and \(Y\), CCA looks for loading \(p\) and \(q\) such that they solve the following maximization problem:
+If the two data matrices are called \\( X \\) \\( \X \\) and \\( Y \\) \\( \Y \\), CCA looks for loading \\(p\\) \\(\p\\) and \\(q\\) \\(\q\\) such that they solve the following maximization problem:
 
-\[
-\max cor(p^\top X^\top Y q)
-\]
+\\[
+  \max \cor(p^\top X^\top Y q)
+\\]
+
+\begin{equation}
+  \max \cor(p^\top X^\top Y q)
+  \label{eq:cca}
+\end{equation}
 
 
