@@ -41,4 +41,4 @@ $$\\latex x^2 $$
 
    \min \frac{1}{n}\|y - X\beta\|^2_2
 
-
+<div> $$\sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6}$$ </div>
