@@ -1,7 +1,3 @@
----
-title: Loadings
----
-
 # Loadings
 
 Figures \ref{fig:loadings1} and \ref{fig:loadings3} display

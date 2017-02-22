@@ -1,7 +1,3 @@
----
-title: Latent variables
----
-
 # Latent variables
 
 The \cca 

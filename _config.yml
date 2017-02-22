@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 
 position: fixed
+markdown: kramdown
 math: mathjax
 
 title: Canonical Correlation Analysis
