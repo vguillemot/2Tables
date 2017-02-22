@@ -29,3 +29,4 @@ $$\begin{equation}
 \end{equation}$$
 
 $latex x^2 $
+$$latex x^2 $$
