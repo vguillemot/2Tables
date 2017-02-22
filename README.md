@@ -36,3 +36,9 @@ $$\latex x^2 $$
 $$\\latex x^2 $$
 
 :math:`x^2`
+
+.. math::
+
+   \min \frac{1}{n}\|y - X\beta\|^2_2
+
+
