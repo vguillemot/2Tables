@@ -2,10 +2,25 @@
 layout: default
 ---
 
-<div class="page">
-  <script type="text/javascript"
+<script type="text/javascript"
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+</script>
+
+<div class="header-page">
+{% include header.html %}
 </div>
+
+
+<div class="clear"></div>
+
+<div id="block">
+	<div class="prose"> 
+	{{content}}
+	</div>
+</div>
+
+
+<div id="footer">
+{% include footer.html %}
+</div>
+
