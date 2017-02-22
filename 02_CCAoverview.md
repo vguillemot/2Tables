@@ -1,13 +1,11 @@
 # Canonical Correlation Analysis: an overview
 
-\\(
-  \DeclareMathOperator{\cor}{cor}
-  \newcommand{\matrice}[1]{\mathbf{#1}}
-  \newcommand{\X}{\matrice{X}}
-  \newcommand{\Y}{\matrice{Y}}
-  \newcommand{\p}{\matrice{p}}
-  \newcommand{\q}{\matrice{q}}
-\\)
+\\(\DeclareMathOperator{\cor}{cor}\\)
+\\(\newcommand{\matrice}[1]{\mathbf{#1}}\\)
+\\(\newcommand{\X}{\matrice{X}}\\)
+\\(\newcommand{\Y}{\matrice{Y}}\\)
+\\(\newcommand{\p}{\matrice{p}}\\)
+\\(\newcommand{\q}{\matrice{q}}\\)
 
 Originally defined by Hotelling in 1936 (Hotelling, 1936),
 canonical correlation analysis (CCA)
