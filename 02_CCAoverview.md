@@ -1,7 +1,12 @@
 # Canonical Correlation Analysis: an overview
 
 \\(
-  \def\cor{cor}
+  \DeclareMathOperator{\cor}{cor}
+  \newcommand{\matrice}[1]{\mathbf{#1}}
+  \newcommand{\X}{\matrice{X}}
+  \newcommand{\Y}{\matrice{Y}}
+  \newcommand{\p}{\matrice{p}}
+  \newcommand{\q}{\matrice{q}}
 \\)
 
 Originally defined by Hotelling in 1936 (Hotelling, 1936),
@@ -28,10 +33,10 @@ that address
 slightly different types of problems 
 (e.g., different normalization conditions, different types data).
 
-If the two data matrices are called \\( X \\) and \\( Y \\), CCA looks for loading \\(p\\) and \\(q\\) such that they solve the following maximization problem:
+If the two data matrices are called \\( \X \\) and \\( \Y \\), CCA looks for loading \\(\p\\) and \\(\q\\) such that they solve the following maximization problem:
 
 \\[
-  \max \cor(p^\top X^\top Y q)
+  \max \cor(\p^\top \X^\top \Y \q)
 \\]
 
 
