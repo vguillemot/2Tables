@@ -3,12 +3,6 @@ theme: jekyll-theme-dinky
 position: fixed
 markdown: kramdown
 
-math: mathjax # options: katex, , false
-fancybox: true
-
-cdn:
-  mathjax: '//cdn.mathjax.org'
-
 title: Canonical Correlation Analysis
 description: |
    <a href="https://vguillemot.github.io/2Tables/01_description.html">Description</a> <br>
