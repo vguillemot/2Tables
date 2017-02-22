@@ -2,7 +2,7 @@ theme: jekyll-theme-dinky
 
 position: fixed
 
-title: <a href="https://vguillemot.github.io/2Tables">Canonical Correlation Analysis, an example in R</a>
+title: Canonical Correlation Analysis
 description: |
    <a href="https://vguillemot.github.io/2Tables/01_description.html">Description</a> <br>
    <a href="https://vguillemot.github.io/2Tables/02_CCAoverview.html">CCA</a> <br>
