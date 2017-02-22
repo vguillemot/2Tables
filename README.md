@@ -11,15 +11,19 @@ This website presents an example of how CCA can be applied on a small wine data-
 
 Equations:
 
-* $x^2$
-* $$x^2$$
-* $ x^2 $
-* $$ x^2 $$
-* \(x^2\)
-* \( x^2 \)
-* \[x^2\]
-* \[ x^2 \]
-* \\(x^2\\)
-* \\( x^2 \\)
-* \\[x^2\\]
-* \\[ x^2 \\]
+$x^2$
+$$x^2$$
+$ x^2 $
+$$ x^2 $$
+\(x^2\)
+\( x^2 \)
+\[x^2\]
+\[ x^2 \]
+\\(x^2\\)
+\\( x^2 \\)
+\\[x^2\\]
+\\[ x^2 \\]
+
+$$\begin{equation}
+\mathcal{L}(\theta \mid I) = P(Y \mid \theta) = \prod\limits_{a} P(I_a \mid \theta)
+\end{equation}$$
