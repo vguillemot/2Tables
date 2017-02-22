@@ -1,7 +1,7 @@
 theme: jekyll-theme-dinky
 
 position: fixed
-math: katex # options: katex, mathjax, false
+math: mathjax
 
 title: Canonical Correlation Analysis
 description: |
