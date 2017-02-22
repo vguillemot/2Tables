@@ -20,3 +20,7 @@ author :
 
 gems:
   - jekyll-titles-from-headings
+
+CDN:
+  enabled: true               # Use MathJax Content Delivery Network (CDN)
+  url: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
