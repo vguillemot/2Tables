@@ -27,3 +27,5 @@ $$ x^2 $$
 $$\begin{equation}
 \mathcal{L}(\theta \mid I) = P(Y \mid \theta) = \prod\limits_{a} P(I_a \mid \theta)
 \end{equation}$$
+
+$latex x^2 $
