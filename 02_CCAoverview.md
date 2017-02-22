@@ -41,3 +41,8 @@ $$\begin{equation}
   \max \cor(\p^\top \X^\top \Y \q)
 \end{equation}$$
 
+\begin{equation}
+  \max \cor(\p^\top \X^\top \Y \q)
+  \label{cca}
+\end{equation}
+
