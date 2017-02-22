@@ -1,3 +1,5 @@
+# Wine data set
+
 We illustrate CCA on a wine tasting data set.
 
 These data describe thirty-six 
