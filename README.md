@@ -1,3 +1,5 @@
+# Canonical Correlation Analysis, an example in R
+
 This website presents an example of how CCA can be applied on a small wine data-set:
 
 * [Description](01_description.md)
