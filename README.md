@@ -11,4 +11,4 @@ This website presents an example of how CCA can be applied on a small wine data-
 
 Equation:
 
-<div> $$\sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6}$$ </div>
+$$ \infty + 2^3 $$
