@@ -1,5 +1,6 @@
 ---
 title: CCA
+mathjax: "http://example.com/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
 ---
 
 # Canonical Correlation Analysis: an overview
