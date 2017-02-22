@@ -15,10 +15,3 @@ description: |
 author :
   name : Vincent Guillemot
   github : vguillemot
-
-sections:
-  - CCA
-  - Wine
-  - LV
-  - Loadings
-  - Corr. Circles
