@@ -1,5 +1,9 @@
 # Canonical Correlation Analysis: an overview
 
+\\(
+  \def\cor{cor}
+\\)
+
 Originally defined by Hotelling in 1936 (Hotelling, 1936),
 canonical correlation analysis (CCA)
 is a statistical method whose goal is to extract the
