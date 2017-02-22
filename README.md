@@ -9,6 +9,3 @@ This website presents an example of how CCA can be applied on a small wine data-
 * [Loadings](#id5)
 * [Correlation circles](#id6)
 
-Equation:
-
-$$ \infty + 2^3 $$
