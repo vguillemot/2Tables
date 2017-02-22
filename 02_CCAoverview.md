@@ -1,10 +1,5 @@
 # Canonical Correlation Analysis: an overview
 
- * OK, so this \\( \sqrt x \\) does not work
- * Nor this \( \sqrt x \) 
- * nor this \(\sqrt x\) nor this \\(\sqrt x\\)
- * But maybe $$\sqrt x$$ or $$ \sqrt x $$ or $$x^2$$ or $$ x^2 $$ will?
-
 Originally defined by Hotelling in 1936 (Hotelling, 1936),
 canonical correlation analysis (CCA)
 is a statistical method whose goal is to extract the
@@ -34,8 +29,5 @@ If the two data matrices are called \\( X \\) and \(Y\), CCA looks for loading \
 \[
 \max cor(p^\top X^\top Y q)
 \]
-
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
 
 
