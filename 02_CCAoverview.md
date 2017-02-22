@@ -37,4 +37,7 @@ If the two data matrices are called \\( \X \\) and \\( \Y \\), CCA looks for loa
   \max \cor(\p^\top \X^\top \Y \q)
 \\]
 
+$$\begin{equation}
+  \max \cor(\p^\top \X^\top \Y \q)
+$$\end{equation}
 
