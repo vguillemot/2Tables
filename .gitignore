@@ -38,4 +38,7 @@ vignettes/*.pdf
 05_loadings.html
 06_cc.html
 
+# Site
+_site/*
+Gemfile.lock
 
